@@ -62,7 +62,7 @@ h4 {
   text-align: center;
 }
 
-.SummaryContainer > div:first-of-type {
+.addButton > div:first-of-type {
   border-right: 2px solid #dedede;
 }
 .plus {
